@@ -18,7 +18,6 @@
 
 - 🔥 Fun fact **I Love Zee JKT48🦖 and My Idol is CR7🐐**
 
-
 <br>
 <h3 align="left">Languages and tool:</h3>
 

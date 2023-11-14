@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<img align="right" alt="programming" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="programming" width="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 - 📌 I’m a Student at **Pelita Bangsa University**
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **thezaky25@gmail.com**
 
 - 🔥 Fun fact **I Love Zee JKT48🦖 and My Idol is CR7🐐**
+
 
 <br>
 <h3 align="left">Languages and tool:</h3>

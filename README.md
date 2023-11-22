@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Sir Zaky Putra Pratama </h1>
-<h3 align="center">A Programming Student,My Side Job Is Being Spiderman🕷️</h3>
+<h3 align="center">A Programming Student,Midnight Becomes Batman🤙🏽</h3>
 <p align="center">a teenager who was given high hopes from his parents and had big dreams of becoming successful and being able to rule the world 🌐, I'm a king!👑 </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=jekliii&label=Profile%20views&color=6A5ACD&style=flat" alt="jekliii" /> 
@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<img align="right" alt="programming" width="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="programming" width="300" src="https://i.pinimg.com/originals/5c/a4/6b/5ca46bdd59b440407d30fe44792062cb.jpg">
 
 - 📌 I’m a Student at **Pelita Bangsa University**
 

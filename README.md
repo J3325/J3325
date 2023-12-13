@@ -21,9 +21,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
   </a>
 </p>
 <br>
+
+---
 
 <p align="right" > - Zaky Putra Pratama </a></p>

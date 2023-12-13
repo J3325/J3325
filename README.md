@@ -1,4 +1,4 @@
-<h1 align="center">About me: </h1>
+<h1 align="center">About Me: </h1>
 <h3 align="center">A Programming Student,Midnight Becomes Batman🤙🏽</h3>
 <p align="center">a teenager who was given high hopes from his parents and had big dreams of becoming successful and being able to rule the world 🌐, I'm a king!👑 </p>
 <p align="center"> 
@@ -12,11 +12,11 @@
 
 - 📌 I’m a Student at **Pelita Bangsa University**
 
-- 📁 I’m currently learning **Python 🐍**
+- 📁 I’m currently learning **Python**
 
 - 📫 How to reach me **thezaky25@gmail.com**
 
-- 🔥 Fun fact **I Love Zee JKT48🦖 and My Idol is CR7🐐**
+- 🔥 Fun fact **I Love Zee JKT48**
 
 <br>
 <h3 align="left">Languages and tool:</h3>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Sir Zaky Putra Pratama </h1>
+<h1 align="center">About me: </h1>
 <h3 align="center">A Programming Student,Midnight Becomes Batman🤙🏽</h3>
 <p align="center">a teenager who was given high hopes from his parents and had big dreams of becoming successful and being able to rule the world 🌐, I'm a king!👑 </p>
 <p align="center"> 

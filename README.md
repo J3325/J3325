@@ -1,18 +1,16 @@
-<h1 align="center">About Me: </h1>
-<h3 align="center">A Programming Student, Midnight Becomes Batman🤙🏽</h3>
-<p align="center">a teenager who was given high hopes from his parents and had big dreams of becoming successful and being able to rule the world 🌐, I'm a king!👑 </p>
-<p align="center"> 
+<h1 align="left">📋About Me: </h1>
+<h3 align="left">A Programming Student, Midnight Becomes Batman🤙🏽</h3>
+<p align="left">a teenager who was given high hopes from his parents and had big dreams of becoming successful and being able to rule the world 🌐, I'm a king!👑 </p>
+<p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=jekliii&label=Profile%20views&color=6A5ACD&style=flat" alt="jekliii" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
-
 <br>
-<img align="right" alt="programming" width="300" src="https://i.pinimg.com/originals/5c/a4/6b/5ca46bdd59b440407d30fe44792062cb.jpg">
+<img align="center" alt="programming" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+<br>
 
 - 📌 I’m a Student at **Pelita Bangsa University**
-
-- 📁 I’m currently learning **Python**
 
 - 📫 How to reach me **thezaky25@gmail.com**
 
@@ -28,4 +26,4 @@
 </p>
 <br>
 
-<p align="right" > Zaky Putra Pratama </a></p>
+<p align="right" > - Zaky Putra Pratama </a></p>

@@ -2,7 +2,7 @@
 <h3 align="left">A Programming Student, Midnight Becomes Batman🤙🏽</h3>
 <p align="left">Dreams are not something we see in sleep. But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=jekliii&label=Profile%20views&color=6A5ACD&style=flat" alt="jekliii" /> 
+ <img src="https://komarev.com/ghpvc/?username=ZakyPutraPratama&label=Profile%20views&color=6A5ACD&style=flat" alt="ZakyPutraPratama" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>

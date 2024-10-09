@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thezaky25@gmail.com**
 
-- 🔥 Fun fact **I Love Zee JKT48**
+- 🔥 Fun fact **I Love Azizi Shafaa Asadel**
 
 <br>
 <h3 align="left">Languages and tool:</h3>

@@ -1,4 +1,5 @@
 <h1 align="left">📋About Me : </h1>
+<h3 align="left">Im Sir Z</h3>
 <h3 align="left">A Programming Student, Midnight Becomes Batman🤙🏽</h3>
 <p align="left">Dreams are not something we see in sleep. But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
@@ -21,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,bootstrap,androidstudio,git,github,vscode" />
   </a>
 </p>
 <br>

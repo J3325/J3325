@@ -1,6 +1,6 @@
-<h1 align="left">📋About Me : </h1>
+<h1 align="left">🥷🏽About Me : </h1>
 <h3 align="left">Im Sir Z</h3>
-<h3 align="left">A Programming Student, Midnight Becomes Batman🦇</h3>
+<h3 align="left">A Programming Student.</h3>
 <p align="left">Dreams are not something we see in sleep. But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=6A5ACD&style=flat" alt="J3325" /> 

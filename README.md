@@ -12,9 +12,7 @@
 
 - 📌 I’m a Student at **Pelita Bangsa University**
 
-- 📫 How to reach me **thezaky25@gmail.com**
-
-- 🔥 Fun fact **I Love Azizi Shafaa Asadel**
+- 📫 How to reach me **zakyputraap@gmail.com**
 
 <br>
 <h3 align="left">Languages and tool:</h3>

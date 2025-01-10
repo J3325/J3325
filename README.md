@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,bootstrap,androidstudio,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,python,java,php" />
   </a>
 </p>
 <br>

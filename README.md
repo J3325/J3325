@@ -2,8 +2,8 @@
 <h3 align="left">A Programming Student.</h3>
 <p align="left">Dreams are not something we see in sleep.<br> But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" /> <br>
- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -white.svg" alt="supun nanayakkara's languages" />
+ <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -white.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
 <br>
@@ -11,17 +11,17 @@
 <br>
 
 - I’m a Student at **Pelita Bangsa University**
-
 - Want to chat? **zakyputraap@gmail.com**
 
 <br>
-<h3 align="left">My Tool:</h3>
-
+<!-- <h3 align="left">My Tool:</h3> -->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br>
+ <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -white.svg" alt="supun nanayakkara's languages" /><br>
+ <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Android Studio | Figma -white.svg" alt="supun nanayakkara's languages" />
+<!--   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br> -->
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->
-</a>
+<!-- </a> -->
 </p>
 <br>
 <p align="left">

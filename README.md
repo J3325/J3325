@@ -1,14 +1,8 @@
 <h1 align="left">About Me? : </h1>
 <h3 align="left">A Programming Student.</h3>
-
-```ymal
-Dreams are not something we see in sleep.
-But dreams are things that make it difficult for us to fall a sleep.
-```
-<p align="left"></p>
+<p align="left">Dreams are not something we see in sleep.<br>But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -white.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
 <br>
@@ -28,16 +22,17 @@ But dreams are things that make it difficult for us to fall a sleep.
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->
 <!-- </a> -->
 </p>
-<br>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
+<!-- <br> -->
+<!-- <p align="left">
+  <a href="https://abhigyantrips.dev/"> -->
 <!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=J3325&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=J3325&theme=tokyonight&hide_border=true" /><br> -->
 <!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3325&langs_count=10&theme=cobalt&layout=compact&hide_border=true" />   -->
-  </a>
+<!--   </a>
 </p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=1B4242&height=150&section=footer)
+ -->
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=2A0944&height=150&section=footer)
 
 ---
 

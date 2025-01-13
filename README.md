@@ -7,7 +7,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
 <br>
-<img align="center" alt="programming" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+<img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/35/65/cb/3565cb7d87e6e14f07b657ef08d9354a.gif">
 <br>
 
 - I’m a Student at **Pelita Bangsa University**
@@ -16,8 +16,8 @@
 <br>
 <!-- <h3 align="left">My Tool:</h3> -->
 <p align="left">
- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -white.svg" alt="supun nanayakkara's languages" /><br>
- <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Android Studio | Figma -white.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | MySql -EEE4B1.svg" alt="supun nanayakkara's languages" /><br>
+ <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Android Studio | Figma -E2DFD0.svg" alt="supun nanayakkara's languages" />
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br> -->
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->

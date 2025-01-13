@@ -7,7 +7,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
 <br>
-<img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/da/1d/d3/da1dd30cbfc50fe16bcb7bdfcc3be61d.gif">
+<img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/98/1a/b7/981ab7f08fe9e1ce0e85f1eadfa5a6d9.gif">
 <br>
 
 - I’m a Student at **Pelita Bangsa University**

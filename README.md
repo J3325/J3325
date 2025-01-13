@@ -1,4 +1,4 @@
-<h1 align="left">About Me : </h1>
+<h1 align="left">About Me? : </h1>
 <h3 align="left">A Programming Student.</h3>
 <p align="left">Dreams are not something we see in sleep.<br> But dreams are things that make it difficult for us to fall a sleep.</p>
 <p align="left"> 
@@ -24,13 +24,13 @@
 <!-- </a> -->
 </p>
 <br>
-<p align="left">
+<!-- <p align="left">
   <a href="https://abhigyantrips.dev/">
 <!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadPrayoga&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 <!--   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadPrayoga&theme=tokyonight&hide_border=true" /><br> -->
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3325&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" />  
-  </a>
-</p>
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3325&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" />  
+  </a> -->
+<!-- </p> -->
 
 ---
 

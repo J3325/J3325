@@ -10,16 +10,17 @@
 <img align="center" alt="programming" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 <br>
 
-- 📌 I’m a Student at **Pelita Bangsa University**
+- I’m a Student at **Pelita Bangsa University**
 
-- 📫 How to reach me **zakyputraap@gmail.com**
+- Want to chat? **zakyputraap@gmail.com**
 
 <br>
 <h3 align="left">Languages and tool:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,python,java,php" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br>
+   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" />
   </a>
 </p>
 <br>

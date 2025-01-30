@@ -26,7 +26,7 @@ Code, Defend, and Repeat.
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->
 <!-- </a> -->
 </p>
-<br>
+<!-- <br> -->
 <!-- <p align="left"> -->
 <!-- <a href="https://github.com/J3325"> -->
 <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=J3325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /><br> -->

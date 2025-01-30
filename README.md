@@ -1,9 +1,7 @@
 <h1 align="left">About Me? : </h1>
 <h3 align="left">You can call me Zaky, I'm interested in programming.</h3>
 
-```ymal
-Code, Defend, and Repeat.
-```
+`Code, Defend, and Repeat.`<br>
 <p align="left">Dreams are not something we see while sleeping.<br>But dreams are the things that make it hard for us to sleep.</p>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />

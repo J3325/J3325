@@ -1,5 +1,5 @@
-<h1 align="left">About Me? : </h1>
-<h3 align="left">You can call me Zaky, I'm interested in programming.</h3>
+<h1 align="left">I'M ZAKY, JUST VIBING WITH SOME CODE</h1>
+<!-- <h2 align="left">You can call me Zaky, I'm interested in programming.</h2> -->
 
 `Code, Defend, and Repeat.`<br>
 <p align="left">

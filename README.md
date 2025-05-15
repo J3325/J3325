@@ -1,9 +1,8 @@
 <h1 align="left">About Me? : </h1>
-<h3 align="left">You can call me Zaky,<br>I'm interested in programming.</h3>
+<h3 align="left">You can call me Zaky, I'm interested in programming.</h3>
 
 `Code, Defend, and Repeat.`<br>
-<p align="left">Dreams are not something we see while sleeping.<br>But dreams are the things that make it hard for us to sleep.</p>
-<p align="left"> 
+<p align="left">
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
@@ -11,8 +10,7 @@
 <img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/98/1a/b7/981ab7f08fe9e1ce0e85f1eadfa5a6d9.gif">
 <br>
 
-- I’m a Student at **Pelita Bangsa University**
-- Want to chat? **zakyputraap@gmail.com**
+Want to chat? **zakyputraap@gmail.com**
 
 <br>
 <!-- <h3 align="left">My Tool:</h3> -->

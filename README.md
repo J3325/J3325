@@ -1,7 +1,6 @@
 <h1 align="left">I'M ZAKY, JUST VIBING WITH SOME CODE</h1>
 <!-- <h2 align="left">You can call me Zaky, I'm interested in programming.</h2> -->
-
-`Code, Defend, and Repeat.`<br>
+<br>
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->

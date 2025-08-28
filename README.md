@@ -1,4 +1,4 @@
-<h1 align="left">I'M ZAKY, JUST VIBING WITH SOME CODE</h1>
+<h1 align="left">Yoo!</h1>
 <!-- <h2 align="left">You can call me Zaky, I'm interested in programming.</h2> -->
 <br>
 <p align="left">

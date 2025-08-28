@@ -5,9 +5,9 @@
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/J3325"> -->
 </p>
-<br>
-<img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/98/1a/b7/981ab7f08fe9e1ce0e85f1eadfa5a6d9.gif">
-<br>
+<!-- <br> -->
+<!-- <img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/98/1a/b7/981ab7f08fe9e1ce0e85f1eadfa5a6d9.gif"> -->
+<!-- <br> -->
 
 **zakyputraap@gmail.com**
 
@@ -15,7 +15,7 @@
 <!-- <h3 align="left">My Tool:</h3> -->
 <p align="left">
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | C++ -EEE4B1.svg" alt="supun nanayakkara's languages" /><br>
- <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Figma | Firebase -E2DFD0.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Figma | Firebase | MySql -E2DFD0.svg" alt="supun nanayakkara's languages" />
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br> -->
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->

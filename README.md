@@ -9,7 +9,7 @@
 <img align="center" alt="programming" width="400" src="https://i.pinimg.com/originals/98/1a/b7/981ab7f08fe9e1ce0e85f1eadfa5a6d9.gif">
 <br>
 
-Want to chat? **zakyputraap@gmail.com**
+**zakyputraap@gmail.com**
 
 <br>
 <!-- <h3 align="left">My Tool:</h3> -->

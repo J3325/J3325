@@ -27,6 +27,22 @@
 <!-- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=J3325&theme=tokyonight&hide_border=true" /> -->
 <!-- </a> -->
 <!-- </p> -->
+<br>
+<div align="left">
+
+  <!-- GitHub Stats -->
+  <img 
+    height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=J3325&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3A3960&icon_color=EEE4B1&text_color=c9d1d9"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J3325&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3A3960&text_color=c9d1d9"
+  />
+
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2A0944&height=150&section=footer)
 ---

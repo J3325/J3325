@@ -13,7 +13,7 @@
 <!-- <h3 align="left">My Tool:</h3> -->
 <p align="left">
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | JavaScript | C++ -EEE4B1.svg" alt="supun nanayakkara's languages" /><br>
- <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Zed | Figma -E2DFD0.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/Tools-Git | Github | VS Code | Zed | Visual Basic | Figma -E2DFD0.svg" alt="supun nanayakkara's languages" />
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" /><br> -->
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->

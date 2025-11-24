@@ -19,29 +19,15 @@
 <!--    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql" /> -->
 <!-- </a> -->
 </p>
-<!-- <br> -->
-<!-- <p align="left"> -->
-<!-- <a href="https://github.com/J3325"> -->
-<!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=J3325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /><br> -->
-<!-- <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3325&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" /><br> -->
-<!-- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=J3325&theme=tokyonight&hide_border=true" /> -->
-<!-- </a> -->
-<!-- </p> -->
 <br>
 <div align="left">
-
-  <!-- GitHub Stats -->
   <img 
     height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=J3325&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EEE4B1&icon_color=EEE4B1&text_color=c9d1d9"
-  />
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=J3325&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=EEE4B1&icon_color=EEE4B1&text_color=c9d1d9"/>
 
-  <!-- Most Used Languages -->
   <img 
     height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J3325&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=E2DFD0&text_color=c9d1d9"
-  />
-
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J3325&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=E2DFD0&text_color=c9d1d9"/>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2A0944&height=150&section=footer)

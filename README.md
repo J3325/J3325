@@ -33,4 +33,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2A0944&height=150&section=footer)
 ---
 
-<p align="right" > - Zaky Putra Pratama </a></p>
+<p al
+ign="right" > - Zaky Putra Pratama </a></p>

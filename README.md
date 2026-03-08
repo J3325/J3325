@@ -1,5 +1,5 @@
 <h1 align="left">Yoo!</h1>
-<p align="left">Interested in Cybersecurity and Networking</p>
+<p align="left">Cybersecurity and Networking Anthusiast</p>
 <br>
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=J3325&label=Profile%20views&color=3A3960&style=flat" alt="J3325" />
